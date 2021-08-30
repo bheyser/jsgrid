@@ -1,0 +1,11 @@
+{
+    "name": "bheyser/jsgrid",
+    "type": "library",
+    "description": "tabalinas/jsgrid",
+    "keywords": ["jsgrid", "jquery"],
+    "homepage": "",
+    "license": "",
+    "authors": [
+        {"name": "tabalinas", "email": ""}
+    ]
+}
